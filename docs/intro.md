@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# Perkenalan Sarpras
+# Pengenalan Sarpras
 
 Mari temukan **Sarpras kurang dari 5 menit.**
 
