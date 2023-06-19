@@ -2,9 +2,9 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# Perkenalan Sarpras
 
-Let's discover **Docusaurus in less than 5 minutes**.
+Mari temukan **Sarpras kurang dari 5 menit.**
 
 ## Getting Started
 
