@@ -86,6 +86,8 @@ Membangun Proyek adalah proses mengkompilasi dan menghasilkan output akhir dari 
 pnpm build
 ```
 
+Tunggu hingga proses `building` selesai dan lanjutkan ke langkah berikutnya.
+
 ## Memulai Server Lokal
 
 Memulai server lokal adalah proses menjalankan server pada komputer lokal yang dapat digunakan untuk menguji dan mengembangkan aplikasi web atau layanan, sehingga dapat diakses melalui URL lokal seperti `http://localhost`.
