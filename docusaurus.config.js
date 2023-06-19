@@ -97,7 +97,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} Sarpras, All Rights Reserved.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Affandra Solusi Teknologi, All Rights Reserved.`,
       },
       prism: {
         theme: lightCodeTheme,
