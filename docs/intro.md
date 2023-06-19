@@ -6,42 +6,19 @@ sidebar_position: 1
 
 Mari temukan **Sarpras kurang dari 5 menit.**
 
-## Getting Started
+## Selamat Datang Di Sarpras
 
-Get started by **creating a new site**.
+**[Sarpras](https://sarpras.vercel.app)** adalah sebuah platform manajemen barang yang dirancang untuk membantu Anda mengelola inventaris dan aset dengan efisien. Dengan fitur-fitur canggih dan antarmuka yang mudah digunakan, Sarpras memudahkan Anda dalam mengatur, melacak, dan memanfaatkan barang-barang yang dimiliki.
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+### Apa Saja Yang Akan Dipelajari
 
-### What you'll need
+- Cara Penggunaan Sarpras
+- Struktur Kode Barang
 
-- [Node.js](https://nodejs.org/en/download/) version 16.14 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
+## Mulai Mengelola Barang Anda dengan Sarpras
 
-## Generate a new site
+Kunjungi website kami di [sarpras.vercel.app](https://sarpras.vercel.app) dan daftarlah untuk mendapatkan akses ke platform manajemen barang yang inovatif ini. Bersama Sarpras, Anda akan merasakan pengalaman manajemen barang yang lebih teratur, efisien, dan efektif.
 
-Generate a new Docusaurus site using the **classic template**.
+Jika Anda memiliki pertanyaan atau butuh bantuan, jangan ragu untuk menghubungi tim dukungan kami di support@sarpras.com.
 
-The classic template will automatically be added to your project after you run the command:
-
-```bash
-npm init docusaurus@latest my-website classic
-```
-
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
-
-The command also installs all necessary dependencies you need to run Docusaurus.
-
-## Start your site
-
-Run the development server:
-
-```bash
-cd my-website
-npm run start
-```
-
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
-
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
-
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+Terima kasih atas kepercayaan Anda pada Sarpras!
