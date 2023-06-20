@@ -30,11 +30,20 @@ Sebuah Modal akan muncul untuk mengkonfirmasi Anda sebelum melanjutkan proses Pe
 
 Dan langkah terakhir, tekan tombol **Confirm** untuk menghapus informasi data barang pada Aplikasi.
 
+:::warning
+
+**Penting!** Tekan tombol **Cancel** jika ingin membatalkan penghapusan.
+
+:::
+
 ![delete modal sarpras](/img/item-delete.png)
 
 ## Selamat
 
 Selamat! Anda sudah berhasil menghapus informasi data barang pada Aplikasi Sarpras ini.
 
-**Note** Jika Anda mengalami masalah dalam proses penghapusan data barang, Tolong sampaikan masalah kepada Developer Aplikasi Sarpras.
+:::success
 
+Jika Anda mengalami masalah dalam proses penghapusan data barang, Tolong sampaikan masalah kepada Developer Aplikasi Sarpras.
+
+:::

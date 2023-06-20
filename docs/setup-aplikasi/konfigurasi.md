@@ -17,13 +17,13 @@ Untuk meng-konfigurasi variabel untuk bagian frontend, anda dapat mengikuti lang
 
 - Masuk ke folder Front End di proyek
 
-```shell
+```shell title="Command Prompt"
 cd ./sarpras/frontend
 ```
 
 - Salin file `.env.example` menjadi file `.env`
 
-```shell
+```shell title="Command Prompt"
 cp .env.example .env
 ```
 
@@ -126,7 +126,11 @@ pnpm install
 
 Langkah ini dikhususkan untuk konfigurasi dengan relasi Basis Data yang digunakan **[`MySQL`](https://id.wikipedia.org/wiki/MySQL)**
 
-**Penting!** Pastikan `MySQL Services` sudah berjalan dengan baik sebelum melakukan Migrasi dan Pembenihan
+:::info
+
+Pastikan `MySQL Services` sudah berjalan dengan baik sebelum melakukan Migrasi dan Pembenihan
+
+:::
 
 ![MySQL Services](/img/xampp-mysql-services.png)
 

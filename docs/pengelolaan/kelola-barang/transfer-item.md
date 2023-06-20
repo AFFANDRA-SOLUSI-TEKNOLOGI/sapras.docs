@@ -36,4 +36,8 @@ Dan langkah terakhir, tekan tombol **Pindah** untuk mentransfer informasi lokasi
 
 Selamat! Anda sudah berhasil memindahkan data barang pada Aplikasi Sarpras ini.
 
-**Note** Jika Anda mengalami masalah dalam proses pemindahan data barang, Tolong sampaikan masalah kepada Developer Aplikasi Sarpras.
+:::success
+
+Jika Anda mengalami masalah dalam proses pemindahan data barang, Tolong sampaikan masalah kepada Developer Aplikasi Sarpras.
+
+:::

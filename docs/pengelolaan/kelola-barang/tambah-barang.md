@@ -56,8 +56,11 @@ Dan langkah terakhir, tekan tombol **Submit** untuk menambah data barang pada Ap
 
 Selamat! Anda sudah berhasil menambah data barang baru pada Aplikasi Sarpras ini.
 
-**Note** Jika Anda mengalami masalah dalam proses penambahan data barang, Tolong sampaikan masalah kepada Developer Aplikasi Sarpras.
+:::success
 
+Jika Anda mengalami masalah dalam proses penambahan data barang, Tolong sampaikan masalah kepada Developer Aplikasi Sarpras.
+
+:::
 ## Import Data Barang
 
 Pada bagian ini, Anda akan belajar cara menambahkan data barang dengan fitur Import Aplikasi Sarpras.
@@ -82,4 +85,8 @@ Jika File sudah terupload dengan baik, tekan tombol **Import** untuk melanjutkan
 
 Selamat! Anda sudah berhasil menambah data barang baru pada Aplikasi Sarpras ini.
 
-**Note** Jika Anda mengalami masalah dalam proses penambahan data barang, Tolong sampaikan masalah kepada Developer Aplikasi Sarpras.
+:::success
+
+Jika Anda mengalami masalah dalam proses penambahan data barang, Tolong sampaikan masalah kepada Developer Aplikasi Sarpras.
+
+:::

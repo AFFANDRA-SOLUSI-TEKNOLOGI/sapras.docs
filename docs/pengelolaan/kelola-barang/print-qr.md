@@ -26,4 +26,8 @@ Tekan tombol **Print** untuk melanjutkan proses print kode QR barang
 
 Selamat! Anda sudah berhasil meng-print kode QR data barang pada Aplikasi Sarpras ini.
 
-**Note** Jika Anda mengalami masalah dalam proses print QR data barang, Tolong sampaikan masalah kepada Developer Aplikasi Sarpras.
+:::success
+
+Jika Anda mengalami masalah dalam proses print QR data barang, Tolong sampaikan masalah kepada Developer Aplikasi Sarpras.
+
+:::

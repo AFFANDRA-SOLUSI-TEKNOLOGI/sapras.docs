@@ -28,8 +28,11 @@ Tekan tombol **Edit** untuk melanjutkan proses pengeditan data barang
 
 Silahkan isi Formulir untuk mengubah informasi data barang yang ingin di edit.
 
-**Note** Jangan mengubah field formulir data yang tidak ingin dirubah.
+:::warning
 
+Jangan mengubah field formulir data yang tidak ingin dirubah.
+
+:::
 ![edit user sarpras](/img/item-edit.png)
 
 Dan langkah terakhir, tekan tombol **Submit** untuk mengubah informasi data barang pada Aplikasi.
@@ -38,4 +41,8 @@ Dan langkah terakhir, tekan tombol **Submit** untuk mengubah informasi data bara
 
 Selamat! Anda sudah berhasil mengubah data barang baru pada Aplikasi Sarpras ini.
 
-**Note** Jika Anda mengalami masalah dalam proses pengeditan data barang, Tolong sampaikan masalah kepada Developer Aplikasi Sarpras.
+:::success
+
+Jika Anda mengalami masalah dalam proses pengeditan data barang, Tolong sampaikan masalah kepada Developer Aplikasi Sarpras.
+
+:::
