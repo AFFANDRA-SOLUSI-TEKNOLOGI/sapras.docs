@@ -2,7 +2,7 @@
 sidebar_position: 3
 ---
 
-# Hapus Data Barang
+# Menghapus Data Barang
 
 Pada bagian ini, Anda akan belajar mengenai bagaimana tata cara menghapus informasi data barang dari Aplikasi Sarpras.
 

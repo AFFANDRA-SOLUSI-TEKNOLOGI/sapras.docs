@@ -2,7 +2,7 @@
 sidebar_position: 3
 ---
 
-# Hapus Pengguna
+# Menghapus Pengguna
 
 Pada bagian ini, Anda akan belajar mengenai bagaimana tata cara menghapus informasi pengguna dari Aplikasi Sarpras.
 
