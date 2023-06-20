@@ -35,7 +35,7 @@ Jika anda menggunakan Windows, anda dapat menggunakan command `copy` dibanding `
 
 - Sekarang buka file `.env` untuk mulai mengubah konfigurasi aplikasi.
 
-    ```shell
+    ```shell title="Command Prompt"
     NEXTAUTH_SECRET=
     JWT_SIGNING_PRIVATE_KEY=
     NEXT_PUBLIC_API_HOST=http://localhost:3001
@@ -51,25 +51,25 @@ Untuk meng-konfigurasi variabel bagian backend, anda dapat mengikuti langkah dib
 
 - Masuk ke folder Back End
 
-```shell
+```shell title="Command Prompt"
 cd ./sarpras/backend
 ```
 
 - Salin file `.env.example` menjadi file `.env`
 
-```shell
+```shell title="Command Prompt"
 cp .env.example .env
 ```
 
 :::info
 
-Jika anda menggunakan Windows, anda dapat menggunakan command `copy` dibading `cp`.
+Jika anda menggunakan Windows, anda dapat menggunakan command `copy` dibanding `cp`.
 
 :::
 
 - Sekarang buka file `.env`
 
-    ```shell
+    ```shell title="Command Prompt"
     PORT=
 
     DB_HOST=127.0.0.1
