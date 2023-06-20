@@ -4,17 +4,17 @@ import styles from "./styles.module.css";
 
 const FeatureList = [
   {
-    title: "Easy to Use",
+    title: "Aplikasi Managemen Barang",
     Svg: require("@site/static/svg/landing-page-task-list.svg").default,
     description: <>Sarpras Manusa adalah aplikasi manajemen barang yang mudah digunakan dan efisien.</>,
   },
   {
-    title: "Focus on What Matters",
+    title: "Pelacakan Barang",
     Svg: require("@site/static/svg/landing-page-progress-overview.svg").default,
     description: <>Sarpras Manusa memungkinkan Anda untuk melacak pergerakan Barang, mulai dari Generasi Kode QR Hingga Histori Pemindahan Barang</>,
   },
   {
-    title: "Focus on What Matters",
+    title: "Keamanan",
     Svg: require("@site/static/svg/landing-page-lock.svg").default,
     description: <>Sarpras Manusa mendukung adanya role management yang dapat memiliki akses tertentu di berbagai fitur</>,
   },
