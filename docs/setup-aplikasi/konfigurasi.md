@@ -16,13 +16,13 @@ Instal Dependensi Front End dengan perintah berikut:
 
 - Masuk folder Front End di proyek dengan perintah
 
-```shell
+```shell title="./sarpras/frontend"
 cd ./sarpras/frontend
 ```
 
 - Install dependensi dengan perintah
 
-```shell
+```shell title="./sarpras/frontend"
 pnpm install
 ```
 
@@ -32,13 +32,13 @@ Instal Dependensi Back End dengan perintah berikut:
 
 - Masuk folder Back End di proyek dengan perintah
 
-```shell
+```shell title="./sarpras/backend"
 cd ./sarpras/backend
 ```
 
 - Install dependensi dengan perintah
 
-```shell
+```shell title="./sarpras/backend"
 pnpm install
 ```
 
@@ -58,13 +58,13 @@ Migrasi basis data adalah proses terkontrol untuk mengelola perubahan struktur d
 
 **Note:** Pastikan Command Line berada di folder `./sarpras/backend`
 
-```shell title="Command Prompt"
+```shell title="./sarpras/backend"
 pnpm db:migrate
 ```
 
 Ini adalah contoh proses logging dari Migrasi Basis Data yang berhasil
 
-```shell title="Command Prompt"
+```shell title="./sarpras/backend"
 > backend@1.0.0 db:migrate D:\project\sarpras\backend
 > node ./databases/scripts/migrate.js
 
@@ -111,13 +111,13 @@ Pembenihan basis data adalah proses mengisi basis data dengan data awal atau con
 
 **Note:** Pastikan Command Line berada di folder `./sarpras/backed`
 
-```shell title="Command Prompt"
+```shell title="./sarpras/backend"
 pnpm db:seed
 ```
 
 Ini adalah contoh proses logging dari Pembenihan Basis Data yang berhasil
 
-```shell title="Command Prompt"
+```shell title="./sarpras/backend"
 > backend@1.0.0 db:seed D:\project\sarpras\backend
 > sequelize-cli db:seed:all
 
