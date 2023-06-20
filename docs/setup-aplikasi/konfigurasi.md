@@ -74,16 +74,4 @@ Pembenihan basis data adalah proses mengisi basis data dengan data awal atau con
 pnpm db:seed
 ```
 
-## Membangun Proyek
-
-Membangun Proyek adalah proses mengkompilasi dan menghasilkan output akhir dari kode sumber proyek, seperti file biner, aplikasi, atau bundle yang siap digunakan.
-
-- Jalankan Pembangunan Proyek dengan Perintah
-
-**Note:** Pastikan Command Line berada di folder `./sarpras/frontend`
-
-```shell
-pnpm build
-```
-
-Tunggu hingga proses `building` selesai dan lanjutkan ke langkah berikutnya.
+Setelah proses Migrasi dan Pembenihan Basis Data selesai, Anda dapat melanjutkan proses Pemasangan Aplikasi.
