@@ -24,10 +24,12 @@ Silahkan isi Formulir untuk mengubah informasi Pengguna yang ingin di edit.
 
 Dan langkah terakhir, tekan tombol **Submit** untuk mengubah informasi Pengguna pada Aplikasi.
 
+**Note** Jangan mengubah field formulir data yang tidak ingin dirubah.
+
 ![edit user sarpras](/img/edit-user.png)
 
 ## Selamat
 
-Selamat! Anda sudah berhasil menambah Pengguna baru pada Aplikasi Sarpras ini.
+Selamat! Anda sudah berhasil mengubah Pengguna baru pada Aplikasi Sarpras ini.
 
-**Note** Jika Anda mengalami masalah dalam proses Pengeditan Pengguna, Tolong sampaikan masalah kepada Developer Aplikasi Sarpras.
+**Note** Jika Anda mengalami masalah dalam proses pengeditan Pengguna, Tolong sampaikan masalah kepada Developer Aplikasi Sarpras.

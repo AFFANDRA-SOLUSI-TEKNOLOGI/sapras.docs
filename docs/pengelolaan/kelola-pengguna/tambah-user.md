@@ -32,7 +32,7 @@ Dan langkah terakhir, tekan tombol **Submit** untuk menambah Pengguna pada Aplik
 
 Selamat! Anda sudah berhasil menambah Pengguna baru pada Aplikasi Sarpras ini.
 
-**Note** Jika Anda mengalami masalah dalam proses Penambahan Pengguna, Tolong sampaikan masalah kepada Developer Aplikasi Sarpras.
+**Note** Jika Anda mengalami masalah dalam proses penambahan Pengguna, Tolong sampaikan masalah kepada Developer Aplikasi Sarpras.
 
 ## Import Pengguna
 
@@ -58,4 +58,4 @@ Jika File sudah terupload dengan baik, tekan tombol **Import** untuk melanjutkan
 
 Selamat! Anda sudah berhasil menambah Pengguna baru pada Aplikasi Sarpras ini.
 
-**Note** Jika Anda mengalami masalah dalam proses Penambahan Pengguna, Tolong sampaikan masalah kepada Developer Aplikasi Sarpras.
+**Note** Jika Anda mengalami masalah dalam proses penambahan Pengguna, Tolong sampaikan masalah kepada Developer Aplikasi Sarpras.
