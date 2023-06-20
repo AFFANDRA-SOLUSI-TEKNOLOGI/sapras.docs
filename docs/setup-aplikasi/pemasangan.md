@@ -1,18 +1,10 @@
 ---
-sidebar_position: 1
+sidebar_position: 3
 ---
 
-# Setup Aplikasi
+# Pemasangan Aplikasi
 
-Pada bagian ini, Anda akan belajar bagaimana cara menyiapkan aplikasi **Sarpras** pada `local server` Anda.
-
-## Persiapan
-
-- Siapkan folder proyek Aplikasi Anda.
-- Komputer harus memiliki **[Node JS v.16+](https://nodejs.org/en)**
-- Komputer harus memiliki **[pnpm v.8+](https://pnpm.io/)** (opsional & **rekomendasi**)
-
-  - Alternatif dari `pnpm` adalah package manager bawaan **Node JS** yaitu `npm`
+Pada bagian ini, Anda akan belajar bagaimana cara memasang dan menjalankan Aplikasi di Server Lokal Anda.
 
 ## Instalasi Dependensi Backend dan Frontend
 
