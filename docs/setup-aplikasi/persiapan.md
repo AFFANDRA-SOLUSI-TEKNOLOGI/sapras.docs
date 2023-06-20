@@ -11,3 +11,6 @@ Pada bagian ini, Anda akan belajar bagaimana cara menyiapkan aplikasi **Sarpras*
 - Komputer harus memiliki **[pnpm v.8+](https://pnpm.io/)** (opsional & **rekomendasi**)
 
   - Alternatif dari `pnpm` adalah package manager bawaan **Node JS** yaitu `npm`
+
+- Komputer harus memiliki Basis Data **[`MySQL`](https://id.wikipedia.org/wiki/MySQL)**
+  - Basis Data disarankan untuk menggunakan **[XAMPP](https://www.apachefriends.org/download.html)** untuk sistem operasi Windows, dan **[MAMP](https://www.mamp.info/en/downloads/)** untuk sistem operasi Mac Os karena sudah terpaket dengan server `Apache`
