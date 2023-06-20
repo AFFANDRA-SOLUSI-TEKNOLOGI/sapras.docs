@@ -22,7 +22,7 @@ Anda akan diarahkan ke halaman pengeditan informasi Pengguna.
 
 Silahkan isi Formulir untuk mengubah informasi Pengguna yang ingin di edit.
 
-Dan langkah terakhir, tekan tombol Submit untuk mengubah informasi Pengguna pada Aplikasi.
+Dan langkah terakhir, tekan tombol **Submit** untuk mengubah informasi Pengguna pada Aplikasi.
 
 ![edit user sarpras](/img/edit-user.png)
 

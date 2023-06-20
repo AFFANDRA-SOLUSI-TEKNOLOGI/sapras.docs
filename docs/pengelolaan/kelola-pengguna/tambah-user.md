@@ -24,7 +24,7 @@ Tekan tombol **Tambah** untuk menambah Pengguna secara Manual.
 
 Silahkan isi informasi Pengguna seperti **Username** dan **Password**
 
-Dan langkah terakhir, tekan tombol Submit untuk menambah Pengguna pada Aplikasi.
+Dan langkah terakhir, tekan tombol **Submit** untuk menambah Pengguna pada Aplikasi.
 
 ![user add sarpras](/img/user-add.png)
 
