@@ -22,11 +22,20 @@ Sebuah Modal akan muncul untuk mengkonfirmasi Anda sebelum melanjutkan proses Pe
 
 Dan langkah terakhir, tekan tombol **Confirm** untuk menghapus informasi Pengguna pada Aplikasi.
 
+:::warning
+
+**Penting!** Tekan tombol **Cancel** jika Anda ingin membatalkan penghapusan.
+
+:::
+
 ![delete modal sarpras](/img/modal-delete.png)
 
 ## Selamat
 
 Selamat! Anda sudah berhasil menghapus informasi Pengguna pada Aplikasi Sarpras ini.
 
-**Note** Jika Anda mengalami masalah dalam proses penghapusan Pengguna, Tolong sampaikan masalah kepada Developer Aplikasi Sarpras.
+:::success
 
+Jika Anda mengalami masalah dalam proses penghapusan Pengguna, Tolong sampaikan masalah kepada Developer Aplikasi Sarpras.
+
+:::
