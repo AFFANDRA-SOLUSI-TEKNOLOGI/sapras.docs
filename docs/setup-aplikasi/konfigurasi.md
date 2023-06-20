@@ -6,6 +6,86 @@ sidebar_position: 2
 
 Pada bagian ini, Anda akan belajar mengenai bagaimana menyiapkan konfigurasi yang dibutuhkan Aplikasi Sarpras ini untuk bisa berjalan dan digunakan dengan baik.
 
+
+## Konfigurasi Variabel Aplikasi
+
+Konfigurasi variabel sangat penting agar aplikasi ini dapat berjalan dengan sempurna. Biasana bisa dikonfigurasi dalam file `.env`.
+
+### Front End
+
+Untuk meng-konfigurasi variabel untuk bagian frontend, anda dapat mengikuti langkah-langkah berikut:
+
+- Masuk ke folder Front End di proyek
+
+```shell
+cd ./sarpras/frontend
+```
+
+- Salin file `.env.example` menjadi file `.env`
+
+```shell
+cp .env.example .env
+```
+
+:::info
+
+Jika anda menggunakan Windows, anda dapat menggunakan command `copy` dibanding `cp`.
+
+:::
+
+- Sekarang buka file `.env` untuk mulai mengubah konfigurasi aplikasi.
+
+    ```shell
+    NEXTAUTH_SECRET=
+    JWT_SIGNING_PRIVATE_KEY=
+    NEXT_PUBLIC_API_HOST=http://localhost:3001
+    ```
+
+    - `NEXTAUTH_SECRET` digunakan untuk meng-enkripsi token JWT untuk autentikasi. Anda dapat mengisi teks apapun disini.
+    - `JWT_SIGNING_PRIVATE_KEY` kunci yang digunakan untuk verifikasi. Anda juga dapat mengisi apapun disini.
+    - `NEXT_PUBLIC_API_HOST` diisi dengan **URL Back End** anda. ***Akhiran tidak boleh memiliki slash (/)***.
+
+### Back End
+
+Untuk meng-konfigurasi variabel bagian backend, anda dapat mengikuti langkah dibawah:
+
+- Masuk ke folder Back End
+
+```shell
+cd ./sarpras/backend
+```
+
+- Salin file `.env.example` menjadi file `.env`
+
+```shell
+cp .env.example .env
+```
+
+:::info
+
+Jika anda menggunakan Windows, anda dapat menggunakan command `copy` dibading `cp`.
+
+:::
+
+- Sekarang buka file `.env`
+
+    ```shell
+    PORT=
+
+    DB_HOST=127.0.0.1
+    DB_PORT=3306
+    DB_DATABASE=
+    DB_USERNAME=root
+    DB_PASSWORD=
+    ```
+
+    - `PORT` port untuk backend anda. Port biasanya diisi dengan nomor antara 0 sampai 65536.
+    - `DB_HOST` alamat host database anda.
+    - `DB_PORT` port dari database anda.
+    - `DB_DATABASE` nama database yang digunakan untuk aplikasi ini.
+    - `DB_USERNAME` kredensial username yang digunakan untuk autentikasi database.
+    - `DB_PASSWORD` kredensial password yang digunakan untuk autentikasi database.
+
 ## Instalasi Dependensi Backend dan Frontend
 
 Instalasi dependensi adalah proses mengunduh dan mengatur komponen atau paket yang dibutuhkan oleh suatu perangkat lunak atau proyek, sehingga memungkinkan aplikasi tersebut berfungsi dengan benar.
