@@ -12,11 +12,17 @@ Anda diwajibkan sudah login Aplikasi Sarpras terlebih dahulu sebelum mengikuti l
 
 Pergi ke Tab Inventory pada Dashboard dan pilih Unit Kerja yang data barangnya akan diubah.
 
-Tekan tombol **Edit** pada salah satu barang untuk mengubah informasi data barang.
+Tekan tombol **Detail** pada salah satu barang untuk mengubah informasi data barang.
 
 ![user tab sarpras](/img/workspace.png)
 
-Anda akan diarahkan ke halaman pengeditan informasi data barang.
+Anda akan diarahkan ke halaman detail informasi data barang.
+
+## Detail Data Barang
+
+Tekan tombol **Edit** untuk melanjutkan proses pengeditan data barang
+
+![edit user sarpras](/img/item-detail.png)
 
 ## Edit Informasi Data Barang
 

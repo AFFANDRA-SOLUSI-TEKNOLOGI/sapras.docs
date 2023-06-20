@@ -8,13 +8,21 @@ Pada bagian ini, Anda akan belajar mengenai bagaimana tata cara menghapus inform
 
 Anda diwajibkan sudah login Aplikasi Sarpras terlebih dahulu sebelum mengikuti langkah langkah dokumentasi dibawah
 
-## Tab User
+## Tab Inventory
 
 Pergi ke Tab Inventory pada Dashboard dan pilih Unit Kerja yang data barangnya akan dihapus.
 
-Tekan tombol **Hapus** pada salah satu barang untuk menghapus informasi data barang.
+Tekan tombol **Detail** pada salah satu barang untuk menghapus informasi data barang.
 
 ![user tab sarpras](/img/workspace.png)
+
+Anda akan diarahkan ke halaman detail informasi data barang.
+
+## Detail Data Barang
+
+Tekan tombol **Hapus** untuk melanjutkan proses penghapusan data barang
+
+![edit user sarpras](/img/item-detail.png)
 
 ## Konfirmasi Penghapusan
 
