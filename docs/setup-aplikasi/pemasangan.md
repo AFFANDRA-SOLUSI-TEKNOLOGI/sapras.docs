@@ -32,7 +32,7 @@ Memulai server lokal adalah proses menjalankan server pada komputer lokal yang d
 pnpm start
 ```
 
-Front End dan Back End akan otomatis dijalankan dengan bantuan dari dependensi `Concurrently`.
+Front End dan Back End akan otomatis dijalankan dengan bantuan dari dependensi [`concurrently`](https://www.npmjs.com/package/concurrently).
 
 ## Aplikasi Siap Digunakan
 
