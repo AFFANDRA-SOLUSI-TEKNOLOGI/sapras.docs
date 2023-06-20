@@ -14,7 +14,7 @@ Membangun Proyek adalah proses mengkompilasi dan menghasilkan output akhir dari 
 
 **Note:** Pastikan Command Line berada di folder `./sarpras/frontend`
 
-```shell
+```shell title="Command Prompt"
 pnpm build
 ```
 
@@ -22,7 +22,7 @@ Tunggu hingga proses `building` selesai dan lanjutkan ke langkah berikutnya.
 
 Ini adalah contoh logging dari proses `building` yang berhasil.
 
-```shell
+```shell title="Command Prompt"
 > frontend@0.1.0 build D:\project\sarpras\frontend
 > next build
 
@@ -78,13 +78,13 @@ Memulai server lokal adalah proses menjalankan server pada komputer lokal yang d
 
 **Note:** Pastikan Command Line berada di folder `./sarpras/frontend`
 
-```shell
+```shell title="Command Prompt"
 pnpm start
 ```
 
 Ini adalah contoh proses logging memulai Server Lokal yang berhasil.
 
-```shell
+```shell title="Command Prompt"
 > frontend@0.1.0 start D:\project\sarpras\frontend
 > concurrently "cd ../backend && pnpm start" "next start"
 
