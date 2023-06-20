@@ -20,7 +20,7 @@ Kami juga menyediakan statistik sederhana dalam halaman utama Dashboard yang ber
 ![Preview Item detail](/img/item-detail.png)
 ![Preview Workspace](/img/workspace.png)
 
-## Hisotri
+## Histori
 
 Di aplikasi ini menyediakan 2 jenis histori, yaitu:
 
