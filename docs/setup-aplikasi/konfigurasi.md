@@ -9,7 +9,7 @@ Pada bagian ini, Anda akan belajar mengenai bagaimana menyiapkan konfigurasi yan
 
 ## Konfigurasi Variabel Aplikasi
 
-Konfigurasi variabel sangat penting agar aplikasi ini dapat berjalan dengan sempurna. Biasana bisa dikonfigurasi dalam file `.env`.
+Konfigurasi variabel sangat penting agar aplikasi ini dapat berjalan dengan sempurna. Biasanya bisa dikonfigurasi dalam file `.env`.
 
 ### Front End
 
